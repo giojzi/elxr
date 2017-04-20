@@ -23,21 +23,27 @@
 		<h2 style="color: #ffffff; padding: 30px; padding-top: 70px; padding-bottom: 70px"; >Enabling people throughout the world to live a happy and healthy life.</h2>
 	</div>
 	<p style="padding: 30px";>We offer a online digital health program that enable people to prevent diseases and live a happier life.</p>
-	<div style="background-color: #ECEDEF";>
-		<p style="padding: 30px";>
+	<div style="background-color: #ECEDEF; padding: 30px;";>
+		<p style=" text-align: center;">
 			<b>Step 1</b><br>
+		</p>
+		<p>
 			Start with our free health check and tell us about yourself and your goals.
 		</p>
 	</div>
-	<div style="background-color: #ffffff";>
-		<p style="padding: 30px";>
+	<div style="background-color: #ffffff; padding: 30px;";>
+		<p style=" text-align: center;">
 			<b>Step 2</b><br>
+		</p>
+		<p>
 			Start with our free health check and tell us about yourself and your goals.
 		</p>
 	</div>
-	<div style="background-color: #ECEDEF";>
-		<p style="padding: 30px";>
+	<div style="background-color: #ECEDEF; padding: 30px;";>
+		<p style=" text-align: center;";>
 			<b>Step 3</b><br>
+		</p>
+		<p>
 			Start with our free health check and tell us about yourself and your goals.
 		</p>
 	</div>

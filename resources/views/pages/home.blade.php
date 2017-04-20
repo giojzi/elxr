@@ -20,14 +20,14 @@
 	}
 	</style>
 	<div id="change" style="background-color: #FF2600; font-size: 1.5em;">
-		<h2 style="color: #ffffff; padding: 30px; padding-top: 70px; padding-bottom: 70px"; >Enabling people throughout the world to live a happy and healthy life.</h2>
+		<h2 style="color: #ffffff; padding: 30px; padding-top: 70px; padding-bottom: 70px; max-width: 576px;"; >Enabling people throughout the world to live a happy and healthy life.</h2>
 	</div>
-	<p style="padding: 30px";>We offer a online digital health program that enable people to prevent diseases and live a happier life.</p>
+	<p style="padding: 30px; font-weight: 100;">We offer a online digital health program that enable people to prevent diseases and live a happier life.</p>
 	<div style="background-color: #ECEDEF; padding: 30px;";>
 		<p style=" text-align: center;">
 			<b>Step 1</b><br>
 		</p>
-		<p>
+		<p style="font-weight: 100;">
 			Start with our free health check and tell us about yourself and your goals.
 		</p>
 	</div>
@@ -35,7 +35,7 @@
 		<p style=" text-align: center;">
 			<b>Step 2</b><br>
 		</p>
-		<p>
+		<p style="font-weight: 100;">
 			Start with our free health check and tell us about yourself and your goals.
 		</p>
 	</div>
@@ -43,10 +43,17 @@
 		<p style=" text-align: center;";>
 			<b>Step 3</b><br>
 		</p>
-		<p>
+		<p style="font-weight: 100;">
 			Start with our free health check and tell us about yourself and your goals.
 		</p>
 	</div>
-
+	<div style="background-color: #ffffff; padding: 30px;";>
+		<p style=" text-align: center;";>
+			<b  style="text-align: center;
+			background-color:#FF2600;
+			color: #ffffff;
+			padding: 12px 18px;">Take a Free healtcheck</b><br>
+		</p>
+	</div>
 </body>
 </html>

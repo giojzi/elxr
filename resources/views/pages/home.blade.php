@@ -12,19 +12,35 @@
 	<link rel="stylesheet" href="">
 </head>
 <body>
-<style type ="text/css">
-	body {
-    background-color: lightgray;
-}
-</style>
-<div id="change" style="height: 100px; background-color: #FF2600">
-	<h2 style="color: #ffffff"; >Enabling people
-throughout the world to
-live a happy and
-healthy life.</h2>
-</div>
-<p>We offer a online digital health
-program that enable people to prevent
-diseases and live a happier life.</p>
+	<style type ="text/css">
+		body {
+	    background-color: #ffffff;
+		font-family: avenir next;
+		margin: 0px;
+	}
+	</style>
+	<div id="change" style="background-color: #FF2600; font-size: 1.5em;">
+		<h2 style="color: #ffffff; padding: 30px; padding-top: 70px; padding-bottom: 70px"; >Enabling people throughout the world to live a happy and healthy life.</h2>
+	</div>
+	<p style="padding: 30px";>We offer a online digital health program that enable people to prevent diseases and live a happier life.</p>
+	<div style="background-color: #ECEDEF";>
+		<p style="padding: 30px";>
+			<b>Step 1</b><br>
+			Start with our free health check and tell us about yourself and your goals.
+		</p>
+	</div>
+	<div style="background-color: #ffffff";>
+		<p style="padding: 30px";>
+			<b>Step 2</b><br>
+			Start with our free health check and tell us about yourself and your goals.
+		</p>
+	</div>
+	<div style="background-color: #ECEDEF";>
+		<p style="padding: 30px";>
+			<b>Step 3</b><br>
+			Start with our free health check and tell us about yourself and your goals.
+		</p>
+	</div>
+
 </body>
 </html>

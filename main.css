@@ -1,0 +1,52 @@
+footer {
+			background-color: #FF2600;
+			color: white;
+		}
+		
+		p.footer {
+			text-align: center;
+		}
+		header {
+			text-align: center;
+		}
+		small.h1 {
+			color: black;
+		}
+		small.h2 {
+			color: red;
+		}
+		ul {
+		list-style-type: none;
+		}
+		a {
+			text-decoration: none;
+			color: white;
+		}
+		body {
+			background-color: lightgray;
+		}
+		p.home {
+			font-weight: bold;
+		}
+		div.about {
+			background-color: #FF2600;
+			color: white;
+			text-align: center;
+		}
+
+		div.top {
+			background-color: #FF2600;
+			color: white;
+			text-align: center;
+		}
+		h2.contact {
+			background-color: #FF2600;
+			color: white;
+			text-align: center;
+		}
+
+		button.health, button.contact {
+			background-color: #FF2600;
+			color: white;
+		}
+

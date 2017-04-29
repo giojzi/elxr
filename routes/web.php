@@ -15,20 +15,6 @@ Route::get('/', 'SiteController@getHome');
 Route::get('/about', 'SiteController@getAbout');
 Route::get('/contact', 'SiteController@getContact');
 Route::post('/contact', 'SiteController@postContact');
-
-
-/*Route::get('users/{type?}', function($type = null ) {
-	if (is_null($type)){
-		dd('all the users');
-	} else {
-		dd('all the users of ' . $type);
-
-	}
-
-});
-
-Route::get('{category}/{post_slug}', function($category, $post_slug)
-{
-
-	dd($category, $post_slug);
-});*/
+Route::get('contact-us', 'ContactUSController@contactUS');
+Route::post('contact-us', ['as'=>'contactus.store','uses'=>'ContactUSController@contactUSPost']);
+Route::get('/health1', 'SiteController@getHealth1');

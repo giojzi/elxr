@@ -20,22 +20,26 @@ class SiteController extends Controller
 		return view('pages.about');
 	}
 
-	public function getContact()
+	public function getHealth1()
+	{
+		return view('pages.health1');
+	}
+	/*public function getContact()
 	{
 		# code...
 		return view('pages.contact');
 	}
 
-	/*
+	
 	processing the contact form
-	*/
+	
 
 	public function postContact(Request $request)
 	{
 		# code...
 		dd($request->all());
 
-	}
+	}*/
 
 
 }

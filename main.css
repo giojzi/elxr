@@ -1,13 +1,23 @@
 footer {
 			background-color: #FF2600;
 			color: white;
+			position:absolute;
+  			left:0px;
+   			bottom:0px;
+   			width:100%;
 		}
 		
+		
+		div.container {
+			min-height: 100%;
+			position: relative;
+		}
 		p.footer {
 			text-align: center;
 		}
 		header {
 			text-align: center;
+
 		}
 		small.h1 {
 			color: black;
@@ -24,6 +34,16 @@ footer {
 		}
 		body {
 			background-color: lightgray;
+			font-family: avenir next;
+			margin: 0;
+		}
+		
+		html {
+		}
+		
+
+		div.question {
+		text-align: center;
 		}
 		p.home {
 			font-weight: bold;
@@ -45,8 +65,11 @@ footer {
 			text-align: center;
 		}
 
-		button.health, button.contact {
+		button.health, button.contact, button.next, button.prev {
 			background-color: #FF2600;
 			color: white;
 		}
 
+		[v-cloak] {
+  		display: none;
+		}
